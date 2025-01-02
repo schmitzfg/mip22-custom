@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Modified by schmitzfg aka cyberckin for training purpose only
+# 02.01.2025
 
 #
 #  Copyright (c) 2022 Barchampas Gerasimos <makindosxx@gmail.com>.
@@ -192,8 +193,8 @@ $bold          _|
 
 
 # Php webserver and port 
-host='127.0.0.1'
-port='8080'
+host='0.0.0.0'
+port='80'
 
 
 setup_clone(){
