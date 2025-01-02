@@ -11,6 +11,8 @@
 </p>
 
 
+<h2>Modified by schmitzfg aka cyberckin for training purpose only
+02.01.2025</h2>
 <h3>
 
 The program is made for educational purposes only for to see how the phishing method works.
